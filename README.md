@@ -1,4 +1,4 @@
-# Hello-World MLOps
+# Basic MLOps
 
 This repository demonstrates a tiny reproducible MLOps flow:
 1. Train a small model (`train.py`) — writes `artifacts/model.pkl` and `artifacts/metrics.json`
